@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the exact GitHub commit or release containing the material you used. This is preliminary, non-peer-reviewed research."
+title: "Harada Mathematical Research: Preliminary Technical Disclosure"
+authors:
+  - family-names: Harada
+    given-names: Shigehisa
+version: "0.1"
+url: "https://github.com/akiduki1107trust-gif/Harada-Mathematical-Research"
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: Harada
+      given-names: Shigehisa
+  title: "Harada Mathematical Research: Original-Construction Candidates, Spectral Frameworks, and Open Proof Problems (Version 0.1)"
+  year: 2026
+  url: "https://github.com/akiduki1107trust-gif/Harada-Mathematical-Research"
