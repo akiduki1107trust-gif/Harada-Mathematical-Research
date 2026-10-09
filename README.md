@@ -1,5 +1,9 @@
 # Harada Mathematical Research
 
+[![Zenodo DOI v0.1](https://zenodo.org/badge/DOI/10.5281/zenodo.23255029.svg)](https://doi.org/10.5281/zenodo.23255029)
+
+**Archived release:** [GitHub v0.1](https://github.com/akiduki1107trust-gif/Harada-Mathematical-Research/releases/tag/v0.1) | **Version DOI:** [10.5281/zenodo.23255029](https://doi.org/10.5281/zenodo.23255029)
+
 **Author:** Shigehisa Harada (原田重壽) — Independent Researcher
 
 **Research status:** Preliminary research program; no solution to the Riemann hypothesis, P vs NP, a complete theory of everything, or a new aperiodic monotile is claimed.
@@ -19,15 +23,16 @@ We distinguish **ESTABLISHED / STANDARD**, **INTERNAL PASS — AUDIT PENDING**, 
 - [English technical report, v0.1](Harada_Mathematical_Research_v0.1_EN.md)
 - [Japanese companion, v0.1](Harada_Mathematical_Research_v0.1_JA.md)
 
-**Publication metadata:** The first successful public GitHub commit adding these materials documents public posting of that version. For improved archival provenance, a GitHub Release and version-specific DOI can be issued separately. Draft dates do not constitute publication dates.
+**Publication metadata:** Version v0.1 was published as a [GitHub Release](https://github.com/akiduki1107trust-gif/Harada-Mathematical-Research/releases/tag/v0.1) on 9 October 2026 and preserved in Zenodo under the version-specific DOI [10.5281/zenodo.23255029](https://doi.org/10.5281/zenodo.23255029). The draft date is different from the public posting date. Neither the publication date nor a DOI independently proves mathematical correctness or priority.
 
 **Research and editing:** Shigehisa Harada. AI-assisted exploration, drafting, and checking are acknowledged; independent verification remains necessary.
 
-**Licensing:** No explicit redistribution license is granted at this time. The author may select one in a future version.
+**Licensing:** The published [Zenodo v0.1 record](https://doi.org/10.5281/zenodo.23255029) displays **Creative Commons Attribution 4.0 International (CC BY 4.0)** for that archived record. This GitHub repository currently has no repository-wide `LICENSE` file. This note reports the existing Zenodo license metadata; it does not grant a new repository-wide license or amend the archived v0.1 release. Please check the applicable record and license terms before reuse.
 
 ## Source archive and citation
 
 - [Original v0.1 ZIP package](Harada_Mathematical_Research_v0.1_GitHub_Upload_Ready.zip)
 - [Citation metadata](CITATION.cff)
+- [Zenodo archival record: version v0.1](https://doi.org/10.5281/zenodo.23255029)
 
 For a precise public-disclosure record, refer to the specific GitHub commit or versioned release that actually publishes each file. The draft date is not the public-disclosure date.
